@@ -42,6 +42,10 @@ souhaite aborder, on s'organise en petits groupes (cf. [forum ouvert @ Wikipedia
 * 13h30-15h30: Bilan des journées et perspectives d'action pour l'année prochaine
 * 15h30-16h00: Clôture
 
+# Inscription
+
+Le coût de l'inscription se monte à 100€ (2x15€ pour les repas du midi, 5€*4 pour les pauses café, 40€ pour le repas du jeudi soir et 10€ pour les imprévus). Merci de vous [pré-inscrire](https://docs.google.com/forms/d/1LrZt2Nm_SCUTldcA9sIwgWPVC9xHyp8XuRhe5SX9OlA/viewform?usp=send_form) et de régler par bon de commande auprès du département Informatique de l'IUT "A" de l'Université Lille 1.
+
 # Venir
 
 Les journées se déroulent à l'IUT "A" de l'Université de Lille - Sciences & Technologies.
@@ -60,4 +64,7 @@ Deux possibilités:
 * dans le centre ville de Lille
 
 Pour tout renseignement n'hésitez pas à contacter le secrétariat du département au 03.59.63.22.20
+
+Pour améliorer ce site, n'hésitez pas à faire une *pull request* sur [le projet github](https://github.com/yannsq/iutagile2015).
+
 
