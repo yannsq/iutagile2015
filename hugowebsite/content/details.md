@@ -48,20 +48,26 @@ Le coût de l'inscription se monte à 100€ (2x15€ pour les repas du midi, 5�
 
 # Venir
 
-Les journées se déroulent à l'IUT "A" de l'Université de Lille - Sciences & Technologies.
+Les journées se déroulent à l'IUT "A" de l'Université de Lille - Sciences & Technologies ([plan](http://doc.univ-lille1.fr/digitalAssets/33/33822_plan_campus_2014_A4-A5.pdf)).
 
 Le campus est facilement accessible depuis la ligne 1 de métro (15mn depuis la gare Lille 
 Flandres ou Lille Europe), arrêt Cité Scientifique.
 
-En avion, l'aéroport de Lesquin est situé à une dizaine de kilomètres de l'Université et 
-des navettes arrivant à l'arrêt Quatre Cantons sur le campus.
+En train, la ville de Lille est desservie par deux gares dans le centre ville. Si vous 
+arrivez à la Gare Lille Flandres, vous pouvez prendre directement la ligne 1 pour 
+rejoindre le campus. Si vous arrivez à la Gare Lille Europe, vous devez d'abord prendre
+la ligne 2 afin de rejoindre la Gare Lille Flandres puis reprendre la ligne 1 en 
+direction de la station Quatre Cantons.
+
+En avion, soit via un aéroport parisien et un train Paris-Lille, soit via 
+l'aéroport de Lesquin situé à une dizaine de kilomètres de l'Université.
 
 # Se loger
 
 Deux possibilités:
 
-* sur le campus dans la résidence REFLEEX qui se trouve à 30 secondes à pied de l'IUT "A"
-* dans le centre ville de Lille
+* sur le campus dans [la résidence REFLEEX](http://reeflex.univ-lille.fr/Chercheur/Tarifs-et-reservation/) qui se trouve à 50m de l'IUT "A" (mais nécessité de réserver deux nuits !)
+* dans le [centre ville de Lille](http://www.lilletourism.com)
 
 Pour tout renseignement n'hésitez pas à contacter le secrétariat du département au 03.59.63.22.20
 
