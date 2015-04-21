@@ -1,6 +1,6 @@
 baseurl = "http://agile.iut-info.univ-lille1.fr/"
 languageCode = "fr"
-title = "Journées IUT Agile 2015"
+title = "Journées IUT Agile 2015 (#iutagile15)"
 theme = "hugo-uno"
 
 [params]

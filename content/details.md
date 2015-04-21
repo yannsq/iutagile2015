@@ -69,7 +69,12 @@ Deux possibilités:
 * sur le campus dans [la résidence REFLEEX](http://reeflex.univ-lille.fr/Chercheur/Tarifs-et-reservation/) qui se trouve à 50m de l'IUT "A" (mais nécessité de réserver deux nuits !)
 * dans le [centre ville de Lille](http://www.lilletourism.com)
 
-Pour tout renseignement n'hésitez pas à contacter le secrétariat du département au 03.59.63.22.20
+# Contact
+
+Pour tout renseignement n'hésitez pas à contacter :
+
+* le secrétariat du département au 03.59.63.22.20
+* les organisateurs thomas.clavier{at}univ-lille1.fr et yann.secq{at}univ-lille1.fr
 
 Pour améliorer ce site, n'hésitez pas à faire une *pull request* sur [le projet github](https://github.com/yannsq/iutagile2015).
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journées IUT Agile 2015</title>
+    <title>Journées IUT Agile 2015 (#iutagile15)</title>
     <link>http://agile.iut-info.univ-lille1.fr/</link>
-    <description>Recent content on Journées IUT Agile 2015</description>
+    <description>Recent content on Journées IUT Agile 2015 (#iutagile15)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 13 Apr 2015 16:40:03 +0200</lastBuildDate>
@@ -92,7 +92,14 @@ l&amp;rsquo;aéroport de Lesquin situé à une dizaine de kilomètres de l&amp;r
 &lt;li&gt;dans le &lt;a href=&#34;http://www.lilletourism.com&#34;&gt;centre ville de Lille&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pour tout renseignement n&amp;rsquo;hésitez pas à contacter le secrétariat du département au 03.59.63.22.20&lt;/p&gt;
+&lt;h1 id=&#34;contact:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;p&gt;Pour tout renseignement n&amp;rsquo;hésitez pas à contacter :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le secrétariat du département au 03.59.63.22.20&lt;/li&gt;
+&lt;li&gt;les organisateurs thomas.clavier{at}univ-lille1.fr et yann.secq{at}univ-lille1.fr&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Pour améliorer ce site, n&amp;rsquo;hésitez pas à faire une &lt;em&gt;pull request&lt;/em&gt; sur &lt;a href=&#34;https://github.com/yannsq/iutagile2015&#34;&gt;le projet github&lt;/a&gt;.&lt;/p&gt;
 </description>
