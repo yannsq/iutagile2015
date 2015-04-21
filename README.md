@@ -5,6 +5,10 @@ Site généré avec [Hugo](http://gohugo.io/overview/quickstart)
 
 # rebuild
 
-Pour construire les pages depuis les fichiers markdowns.
+Pour construire les pages depuis les fichiers markdowns et le thème : 
 
-  ./bin/hugo
+    hugo
+
+Pour tester en local sur le port 1313
+  
+    hugo server --watch
