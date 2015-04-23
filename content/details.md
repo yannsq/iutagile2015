@@ -23,6 +23,7 @@ de l'agilité  dans les différents départements.
 ### Après-midi
 
 * 13h30-15h30: Ateliers (à définir)
+  * Outils en situations agiles (Jean-Michel Ingelbert @ Toulouse)
 * 15h30-16h: Pause café
 * 16h-18h: Ateliers (à définir)
 
